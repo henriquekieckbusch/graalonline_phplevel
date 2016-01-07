@@ -1,4 +1,12 @@
 <?Php 
+
+/*
+ *  by Henrique Kieckbusch
+ *
+ * just send this .php file into a PHP server and open it.
+ *
+ * */
+ 
 class graalLevel{
     var $tile = array();
     var $imgFolder = 'images/';
